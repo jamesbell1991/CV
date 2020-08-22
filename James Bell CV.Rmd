@@ -34,9 +34,9 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
+Last updated on `r format(Sys.Date(), "%B %d %Y")`.
 
 
 
@@ -60,7 +60,7 @@ London, UK
 
 2019-21
 
-*Core modules*: Advanced Statistical Methods in Epidemiology, Epidemiology in Practice, Clinical Trials, Study Design, Epidemiology and Control of Infectious Diseases, Infectious Disease Modelling
+*Core modules*: Foundational courses in epidemiology and statistics, Advanced Statistical Methods in Epidemiology, Epidemiology in Practice, Clinical Trials, Study Design, Epidemiology and Control of Infectious Diseases, Infectious Disease Modelling
 
 *Supplementary modules and short courses*: Epidemiology and -omics, Introduction to GIS, Demographic Methods, Advanced Research Methods
 
@@ -79,12 +79,14 @@ Dissertation title: Representations of HIV/AIDS in Polish Public Discourse
 
 ### Corpus Christi College, University of Cambridge
 
-MA (Hons) Modern and Mediveal Languages (French and Russian)
+MA (Hons) Modern and Mediveal Languages
 
 Cambridge, UK
 
 2009-13
 1st class
+
+French and Russian
 
 
 Experience {data-icon=laptop}
