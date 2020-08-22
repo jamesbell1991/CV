@@ -1,0 +1,196 @@
+---
+title: "James Bell's resume"
+author: James Bell
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jbell403@gmail.com
+- <i class="fa fa-phone"></i> +447821142059
+- Location: London, UK
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Proficiency in Microsoft programs (Word, Excel, PowerPoint, Outlook)
+
+- Software: SPSS, STATA, R, Nvivo
+
+- Languages: French (advanced), Russian (advanced), Spanish (intermediate), Polish (basic)
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+James Bell {#title}
+--------------------------------------------------------------------------------
+
+Tailor text here for each position
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### London School of Hygiene and Tropical Medicine
+
+MSc Epidemiology
+
+London, UK
+
+2019-21
+
+*Core modules*: Advanced Statistical Methods in Epidemiology, Epidemiology in Practice, Clinical Trials, Study Design, Epidemiology and Control of Infectious Diseases, Infectious Disease Modelling
+
+*Supplementary modules and short courses*: Epidemiology and -omics, Introduction to GIS, Demographic Methods, Advanced Research Methods
+
+*Working dissertation title*: The Impact of COVID-19 on measles vaccination and transmission dynamics in Nigeria: A mathematical modelling study
+
+### University of Glasgow
+
+MSc Russian, Central and East European Studies
+
+Glasgow, UK
+
+2013-14
+Distinction
+
+Dissertation title: Representations of HIV/AIDS in Polish Public Discourse
+
+### Corpus Christi College, University of Cambridge
+
+MA (Hons) Modern and Mediveal Languages (French and Russian)
+
+Cambridge, UK
+
+2009-13
+1st class
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Associate Director
+
+Global Health Unit, Ipsos MORI
+
+London, UK
+
+2014-
+
+Global health researcher leading qualitative and quantitative projects on behalf of NGOs, governments and the pharmaceutical industry. Responsibilities include:
+
+- Preparing concept notes, proposals and IRB protocols, including costing and work planning   
+- Research material development  
+- Study set-up, enumerator training, interviewing and fieldwork monitoring (including in Nigeria, Bangladesh, India, Zambia, Zimbabwe, South Africa, Malawi and Kenya)   
+- Data analysis and interpretation of statistical modelling  
+- Report preparation and dissemination
+- Stakeholder management often as part of a consortium (including funders and government/ NGO representatives) and public engagement activities  
+
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Understanding barriers to HIV testing and treatment: a study of young men and healthcare providers in KwaZulu-Natal and Mpumalanga
+
+Peer-reviewed article, South African Health Review
+
+N/A
+
+2019
+
+**Bell J**, Sharma S, Malone S, Levy M, Reast J, Little K, Hasen N
+
+### Attitudinal, situational and behavioural factors affecting ARV initiation among newly diagnosed HIV+ men aged 20-34 in Mpumalanga and Kwa-Zulu Natal, South Africa
+
+Presentation at AIDS Impact 2019 (Presenting author)
+
+London
+
+2019
+
+**Bell J**, Sharma S, Hasen N, Malone S
+
+### Awareness of PrEP and Drivers and Barriers to Use Among Men Aged 20-34 in Mpumalanga and KwaZulu-Natal, South Africa
+
+Poster at IAS 2019
+
+Mexico City
+
+2019
+
+**Bell J**, Sharma S, Hasen N, Malone S
+
+### Assessment of Dietary Intake Capture Methods in Three Large-Scale Surveys
+
+Presentation at International Conference on Food Security and Nutrition (Presenting author)
+
+Barcelona
+
+2019
+
+Sharma S, **Bell J**, Bates S, Robinson A
+
+Additional Courses and Training {data-icon=rocket}
+--------------------------------------------------------------------------------
+### Microbiology
+
+University of California San Diego Extension, 4 units
+
+N/A
+
+2020
+
+### Applied Immunology 
+
+University of California San Diego Extension, 3 units
+
+N/A
+
+2020
+
+### Designing and Running Randomised Evaluations
+
+MIT via edX
+
+N/A
+
+2017 
+
+### TRREE Research Ethics Training 
+
+N/A
+
+N/A
+
+2017 
+
+### Advanced Certificate in Market and Social Research Practice 
+Market Research Society. Subsequently tutor and examiner for 2018-2019 assessment rounds
+
+N/A
+
+2016
+
