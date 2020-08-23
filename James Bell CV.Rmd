@@ -18,6 +18,9 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> jbell403@gmail.com
 - <i class="fa fa-phone"></i> +447821142059
+- <i class="fa fa-github"></i> [github.com/jamesbell1991](https://github.com/jamesbell1991)
+- <i class="fa fa-twitter"></i> [jamesbell1991](https://twitter.com/jamesbell91)
+- <i class="fa fa-linkedin"></i> [James Bell](https://uk.linkedin.com/public-profile/in/james-bell-45552723)
 - Location: London, UK
 
 
@@ -45,7 +48,6 @@ Main
 
 James Bell {#title}
 --------------------------------------------------------------------------------
-
 Tailor text here for each position
 
 
@@ -56,7 +58,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 MSc Epidemiology
 
-London, UK
+N/A
 
 2019-21
 
@@ -70,7 +72,7 @@ London, UK
 
 MSc Russian, Central and East European Studies
 
-Glasgow, UK
+N/A
 
 2013-14
 Distinction
@@ -79,9 +81,9 @@ Dissertation title: Representations of HIV/AIDS in Polish Public Discourse
 
 ### Corpus Christi College, University of Cambridge
 
-MA (Hons) Modern and Mediveal Languages
+MA (Hons) Modern and Medieval Languages
 
-Cambridge, UK
+N/A
 
 2009-13
 1st class
@@ -104,20 +106,20 @@ Global health researcher leading qualitative and quantitative projects on behalf
 
 - Preparing concept notes, proposals and IRB protocols, including costing and work planning   
 - Research material development  
-- Study set-up, enumerator training, interviewing and fieldwork monitoring (including in Nigeria, Bangladesh, India, Zambia, Zimbabwe, South Africa, Malawi and Kenya)   
-- Data analysis and interpretation of statistical modelling  
+- Literature reviews, study set-up, enumerator training, interviewing and fieldwork monitoring (including in Nigeria, Bangladesh, India, Zambia, Zimbabwe, South Africa, Malawi and Kenya)   
+- Data management and analysis; interpretation of statistical modelling to make strategic recommendations  
 - Report preparation and dissemination
 - Stakeholder management often as part of a consortium (including funders and government/ NGO representatives) and public engagement activities  
 
 
 
 
-Selected Publications {data-icon=file}
+Publications & Presentations {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Understanding barriers to HIV testing and treatment: a study of young men and healthcare providers in KwaZulu-Natal and Mpumalanga
 
-Peer-reviewed article, South African Health Review
+Peer-reviewed article, South African Health Review [[Link]](https://www.hst.org.za/publications/South%20African%20Health%20Reviews/11%20SAHR_2019_Understanding%20barriers%20to%20HIV%20testing%20and%20treatment.pdf)
 
 N/A
 
