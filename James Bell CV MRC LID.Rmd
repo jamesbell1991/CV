@@ -1,5 +1,5 @@
 ---
-title: "James Bell's resume"
+title: "James Bell CV MRC LID"
 author: James Bell
 date: "`r Sys.Date()`"
 output:
@@ -62,9 +62,10 @@ N/A
 
 *Core modules*: Foundational courses in epidemiology and statistics, Advanced Statistical Methods in Epidemiology, Epidemiology in Practice, Clinical Trials, Study Design, Epidemiology and Control of Infectious Diseases, Infectious Disease Modelling
 
-*Supplementary modules*: Epidemiology and -omics, Demographic Methods, Advanced Research Methods 
+*Supplementary modules*: Epidemiology and -omics, Demographic Methods, Advanced Research Methods (including Big Data, causal inference and working with Electronic Medical Records)
 
-*Working project title*: The Impact of COVID-19 on the Probablity of Measles Outbreaks in Nigeria
+*Working project title*: The Impact of COVID-19 on the Probablity of Measles Outbreaks in Nigeria. 
+
 
 ### University of Glasgow
 
@@ -132,9 +133,6 @@ N/A
 
 **Bell J**, Sharma S, Malone S, Levy M, Reast J, Ciecielag J, Gogolina S, Ansons T, Fourie S, Braz R, Little K, Hasen N
 
-:::aside
-Selected publications and presentations. For a full list [click here](https://orcid.org/0000-0002-2265-1205)
-:::
 
 ### Understanding barriers to HIV testing and treatment: a study of young men and healthcare providers in KwaZulu-Natal and Mpumalanga
 
@@ -167,6 +165,15 @@ Mexico City
 
 **Bell J**, Sharma S, Hasen N, Malone S
 
+### Assessment of Dietary Intake Capture Methods in Three Large-Scale Surveys
+
+Presentation at International Conference on Food Security and Nutrition (Presenting author)
+
+Barcelona
+
+2019
+
+Sharma S, **Bell J**, Bates S, Robinson R
 
 Additional Courses and Training {data-icon=rocket}
 --------------------------------------------------------------------------------
